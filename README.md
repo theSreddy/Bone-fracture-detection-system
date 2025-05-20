@@ -1,4 +1,4 @@
-# │
+
 ├── dataset/ # Contains X-ray images (train/test)
 ├── models/ # Saved trained models
 ├── src/ # Source code
@@ -12,3 +12,4 @@
 ├── requirements.txt
 ├── README.md
 └── run.py
+https://drive.google.com/file/d/1LfNSEFSERw3sqH5XFFwPkucKsnETBpZp/view?usp=drivesdk
